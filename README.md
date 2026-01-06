@@ -1,4 +1,5 @@
 🎞 Youtube Tanıtım Linki: 
+
 🎁 Ödüllendirmek İstersen: https://www.shopier.com/osmanyusupov/42921556
 
 📊 Excel Görev Yönetim Paneli (Task Management Dashboard)

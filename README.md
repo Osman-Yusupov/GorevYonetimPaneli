@@ -1,4 +1,4 @@
-🎞 Youtube Tanıtım Linki: 
+🎞 Youtube Tanıtım Linki: https://youtu.be/ft1Hx8CYKrE
 
 🎁 Ödüllendirmek İstersen: https://www.shopier.com/osmanyusupov/42921556
 

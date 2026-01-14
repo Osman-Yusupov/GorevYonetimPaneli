@@ -134,3 +134,7 @@ Fikirlerinizi ve önerilerinizi Issues veya Discussions bölümünde paylaşabil
 
 Excel dosyasını repodan indirip doğrudan kullanabilirsiniz.
 Herhangi bir VBA makrosu zorunlu değildir.
+
+## 🔖 Etiketler
+
+`#LinkedIn` `#Excel` `#GitHub` `#NoCode` `#LowCode`

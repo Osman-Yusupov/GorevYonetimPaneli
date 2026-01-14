@@ -1,8 +1,9 @@
-🎞 Youtube Tanıtım Linki: https://youtu.be/ft1Hx8CYKrE
+# 📊 Excel Görev Yönetim Paneli (Task Management Dashboard)
 
-🎁 Ödüllendirmek İstersen: https://www.shopier.com/osmanyusupov/42921556
+## 🎞 Youtube Tanıtım Linki: https://youtu.be/ft1Hx8CYKrE
 
-📊 Excel Görev Yönetim Paneli (Task Management Dashboard)
+## 🎁 Ödüllendirmek İstersen: https://www.shopier.com/osmanyusupov/42921556
+
 
 “Bugün ne yaptın?”
 “Bu ay neler yaptın?”
